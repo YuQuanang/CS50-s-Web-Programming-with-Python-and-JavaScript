@@ -1,2 +1,2 @@
 # CS50-s-Web-Programming-with-Python-and-JavaScript
-Projects that I have finished in this course
+Attached above lies all the project I have done in this course!!!
